@@ -70,4 +70,4 @@ SELECT * FROM clientes
 SELECT * FROM produtos
 
 -- Vendas
-SELECT * FROM Vendas
+SELECT * FROM vendas
