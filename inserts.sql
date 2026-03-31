@@ -61,13 +61,10 @@ INSERT INTO vendas (cliente_id, produto_id, quantidade, valor_total, data_venda)
 (9, 1, 1, 3500.00, '2026-03-15'),
 (10, 2, 1, 120.00, '2026-03-16');
 
--- Verificação das Tabelas
+-- Verificação das Tabelas (descomente e execute uma linha de cada vez)
 
--- Clientes
-SELECT * FROM clientes
+-- SELECT * FROM clientes
 
--- Produtos
-SELECT * FROM produtos
+-- SELECT * FROM produtos
 
--- Vendas
-SELECT * FROM vendas
+-- SELECT * FROM vendas
