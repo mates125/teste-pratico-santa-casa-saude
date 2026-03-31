@@ -29,13 +29,10 @@ CREATE TABLE vendas (
     FOREIGN KEY (produto_id) REFERENCES produtos(id)
 );
 
--- Verificação das Tabelas
+-- Verificação das Tabelas (descomente e execute uma linha de cada vez)
 
--- Clientes
-SELECT * FROM clientes
+-- SELECT * FROM clientes
 
--- Produtos
-SELECT * FROM produtos
+-- SELECT * FROM produtos
 
--- Vendas
-SELECT * FROM vendas
+-- SELECT * FROM vendas
