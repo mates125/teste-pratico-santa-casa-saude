@@ -29,4 +29,4 @@ A modelagem foi feita evitando redundância de dados, utilizando JOINs para recu
 1. Ao final das queries de criação das tabelas e inserção de dados, existem SELECTs para visualização do estado das tabelas, para executá-los basta descomentar as linhas e executar cada um dos SELECTs.
 
 ## Autor 
-[Mateus Rodrigues Lopes](linkedin.com/in/mates125/)
+[Mateus Rodrigues Lopes](https://linkedin.com/in/mates125/)
